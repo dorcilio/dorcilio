@@ -180,7 +180,7 @@ const dorcilioNeto = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorcílio_Neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorcilio)
 [![Email](https://img.shields.io/badge/Email-dorcilio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorcilio@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5566999531297)
 
 ### 🎨 **Portfólio & Comunidade**
 
@@ -206,10 +206,7 @@ const dorcilioNeto = {
 
 ### 🎯 *"Transformando desafios complexos em soluções elegantes"*
 
-**Interessado em discutir oportunidades?**
-
-[![Agendar Reunião](https://img.shields.io/badge/📅_Agendar_Reunião-Calendly-blue?style=for-the-badge)](https://calendly.com/dorcilio)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-PDF-red?style=for-the-badge)](https://github.com/dorcilio/cv/raw/main/DorcilioNeto_CV.pdf)
+**Interessado em discutir oportunidades? Envie um e-mail ou mande uma mensagem no WhatsApp!**
 
 ---
 
