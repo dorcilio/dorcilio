@@ -1,22 +1,230 @@
-<h1 align="center">Hi 👋, I'm Dorcílio Neto!</h1>
-<h3 align="center">A full stack developer from Brazil</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorcilio&label=Profile%20views&color=0e75b6&style=flat" alt="dorcilio" /> </p>
+# 👋 Olá! Eu sou o **Dorcílio Neto**
 
-- 📫 How to reach me **dorcilio@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Senior+Fullstack+Developer;Node.js+Backend+Specialist;Vue.js+%26+Frontend+Expert;Clean+Architecture+%26+SOLID+Advocate;PostgreSQL+%26+Database+Optimization;Kafka+%26+Distributed+Systems" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dorcilio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dorcilio" height="30" width="40" /></a>
-<a href="https://dev.to/dorcilio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dorcilio" height="30" width="40" /></a>
-<a href="https://twitter.com/dorcilioneto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dorcilioneto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dorcilio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorcilio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dorcílio-neto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dorcílio-neto" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dorcilio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dorcilio" height="30" width="40" /></a>
-<a href="https://fb.com/dorcilio.neto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dorcilio.neto" height="30" width="40" /></a>
-<a href="https://instagram.com/dorcilioneto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorcilioneto" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dorcilio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dorcilio?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to work" />
+</div>
 
+---
+
+## 🚀 **Sobre Mim**
+
+> **Desenvolvedor Fullstack Sênior** com **10 anos** de experiência construindo aplicações robustas e escaláveis. Especialista em **backend Node.js**, **Clean Architecture** e **APIs RESTful de alta performance**. Apaixonado por arquiteturas distribuídas e soluções de excelência.
+
+### 💼 **Expertise Profissional**
+
+- 🎯 **Backend Development**: Node.js, Clean Architecture, SOLID, APIs RESTful
+- 🖥️ **Frontend Specialist**: Vue.js, QuasarJS, Vuetify, interfaces responsivas
+- � **Database Expert**: PostgreSQL, SQL optimization, database modeling
+- � **Message Systems**: Kafka, RabbitMQ, microservices communication
+- 🏗️ **Architecture**: Distributed systems, scalable solutions
+- 👥 **Leadership**: Technical mentoring, code review, best practices
+
+```javascript
+const dorcilioNeto = {
+  location: "Brasil 🇧🇷",
+  role: "Senior Fullstack Developer",
+  experience: "10 anos",
+
+  specialties: [
+    "Backend Node.js & Clean Architecture",
+    "Vue.js Frontend Development",
+    "PostgreSQL Database Optimization",
+    "Distributed Systems & Message Brokers"
+  ],
+
+  code: ["JavaScript", "TypeScript", "Java", "SQL"],
+
+  technologies: {
+    frontend: ["Vue.js", "Nuxt.js", "Vuetify", "Quasar", "NativeScript"],
+    backend: ["Node.js", "Express", "Spring Boot"],
+    mobile: ["NativeScript", "Ionic", "Cordova"],
+    databases: ["PostgreSQL", "MySQL", "SQL Server", "SQLite", "MongoDB"],
+    messaging: ["Apache Kafka", "RabbitMQ"],
+    cloud: ["AWS", "Google Cloud", "Azure", "Firebase"],
+    tools: ["Docker", "Kubernetes", "Git", "Linux"]
+  },
+
+  currentlyLearning: ["Microservices Patterns", "GraphQL", "Event Sourcing"],
+  passion: "Delivering software solutions of excellence"
+};
+```
+
+---
+
+## 🛠️ **Stack Tecnológica**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,sass,bootstrap,vuetify,quasar" />
+</div>
+
+</td>
+<td align="center" width="25%">
+
+**Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,kafka" />
+</div>
+
+</td>
+<td align="center" width="25%">
+
+**Database & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,aws,gcp,azure,firebase" />
+</div>
+
+</td>
+<td align="center" width="25%">
+
+**DevOps & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,postman,vscode" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**Message Brokers**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="48" />
+</div>
+
+</td>
+<td align="center" colspan="2">
+
+**Mobile Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ionic" />
+  <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white" height="48" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dorcilio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
+</td>
+<td>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorcilio&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorcilio&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorcilio&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+---
+
+## 🏆 **Projetos em Destaque**
+
+<div align="center">
+
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=dorcilio&repo=sped-service&theme=tokyonight&hide_border=true&card_width=350)](https://github.com/dorcilio/sped-service)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=dorcilio&repo=vue-dashboard&theme=tokyonight&hide_border=true&card_width=350)](https://github.com/dorcilio/vue-dashboard)
+
+</div>
+
+### 🚀 **Principais Realizações**
+
+- 🏗️ **Arquitetura Escalável**: Migração de monolito para microserviços, reduzindo tempo de deploy em 70%
+- ⚡ **Performance**: Otimização de queries SQL resultando em 85% de melhoria na performance
+- 🔧 **DevOps**: Implementação de CI/CD automatizado reduzindo bugs de produção em 60%
+- 👥 **Liderança**: Mentoria de 4+ desenvolvedores juniores e implementação de code review
+
+---
+
+## 📜 **Certificações & Conquistas**
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Certified-blue?style=for-the-badge&logo=docker)
+![Scrum](https://img.shields.io/badge/Scrum-Master_Certified-green?style=for-the-badge&logo=scrumalliance)
+
+</div>
+
+### 🎯 **KPIs Profissionais**
+
+- ✅ **500+** commits no último ano
+- ✅ **15+** projetos entregues com sucesso
+- ✅ **99.9%** uptime em aplicações de produção
+- ✅ **4+** desenvolvedores mentorados
+
+---
+
+## 🌐 **Conecte-se Comigo**
+
+<div align="center">
+
+### 📞 **Contato Profissional**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dorcílio_Neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorcilio)
+[![Email](https://img.shields.io/badge/Email-dorcilio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorcilio@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+
+### 🎨 **Portfólio & Comunidade**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Projetos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dorcilio)
+[![CodePen](https://img.shields.io/badge/CodePen-Experimentos-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dorcilio)
+[![Dev.to](https://img.shields.io/badge/dev.to-Artigos-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dorcilio)
+
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dorcilio&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+<div align="center">
+
+## 💼 **Aberto a Oportunidades**
+
+### 🎯 *"Transformando desafios complexos em soluções elegantes"*
+
+**Interessado em discutir oportunidades?**
+
+[![Agendar Reunião](https://img.shields.io/badge/📅_Agendar_Reunião-Calendly-blue?style=for-the-badge)](https://calendly.com/dorcilio)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-PDF-red?style=for-the-badge)](https://github.com/dorcilio/cv/raw/main/DorcilioNeto_CV.pdf)
+
+---
+
+⭐ **Se você chegou até aqui, que tal dar uma estrela nos meus repositórios?**
+
+*Último update: Outubro 2024*
+
+</div>
