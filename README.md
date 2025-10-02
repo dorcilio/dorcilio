@@ -145,18 +145,9 @@ const dorcilioNeto = {
 
 ---
 
-## 🏆 **Projetos em Destaque**
-
-<div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=dorcilio&repo=sped-service&theme=tokyonight&hide_border=true&card_width=350)](https://github.com/dorcilio/sped-service)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=dorcilio&repo=vue-dashboard&theme=tokyonight&hide_border=true&card_width=350)](https://github.com/dorcilio/vue-dashboard)
-
-</div>
-
 ### 🚀 **Principais Realizações**
 
-- 🏗️ **Arquitetura Escalável**: Migração de monolito para microserviços, reduzindo tempo de deploy em 70%
+- 🏗️ **Arquitetura Escalável**: Migração de monolito para microserviços
 - ⚡ **Performance**: Otimização de queries SQL resultando em 85% de melhoria na performance
 - 🔧 **DevOps**: Implementação de CI/CD automatizado reduzindo bugs de produção em 60%
 - 👥 **Liderança**: Mentoria de 4+ desenvolvedores juniores e implementação de code review
@@ -167,7 +158,6 @@ const dorcilioNeto = {
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-Certified-blue?style=for-the-badge&logo=docker)
 ![Scrum](https://img.shields.io/badge/Scrum-Master_Certified-green?style=for-the-badge&logo=scrumalliance)
 
@@ -223,8 +213,8 @@ const dorcilioNeto = {
 
 ---
 
-⭐ **Se você chegou até aqui, que tal dar uma estrela nos meus repositórios?**
+⭐ **Se você chegou até aqui, que tal marcarmos um café?**
 
-*Último update: Outubro 2024*
+*Último update: Outubro 2025*
 
 </div>
