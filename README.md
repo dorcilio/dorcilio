@@ -52,7 +52,7 @@ const dorcilioNeto = {
     tools: ["Docker", "Kubernetes", "Git", "Linux"]
   },
 
-  currentlyLearning: ["Microservices Patterns", "GraphQL", "Event Sourcing"],
+  currentlyLearning: ["Microservices Patterns", "Event Sourcing"],
   passion: "Delivering software solutions of excellence"
 };
 ```
@@ -213,7 +213,7 @@ const dorcilioNeto = {
 
 ---
 
-⭐ **Se você chegou até aqui, que tal marcarmos um café?**
+⭐ **Se você chegou até aqui, que tal um café?**
 
 *Último update: Outubro 2025*
 
